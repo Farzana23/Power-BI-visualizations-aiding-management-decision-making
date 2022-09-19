@@ -1,0 +1,49 @@
+customer_ID,customer_name,customer_address,customer_since_year,business_category,salespeople_unique_identification,contact_email
+1,GKAS,"Leeds, UK",2000,Retail,10,contact@GKAS.co.uk
+2,Devil's Fashion,"Zagreb, Croatia",2000,Bulk,3,fashion@df.com
+3,Zweihan Corp,"Dortmund, Germany",2000,Others,1,purchase@zweihan.de
+4,BH Vision,"Bratislava, Hungary",2000,Bulk,13,fashionpurchase@bhvision.com
+5,Norfolk Garment,"Norwich, UK",2000,Bulk,10,purchase@norfolkgarment.net
+6,General Clothes,"Bristol, UK",2000,Bulk,10,acquisition@gc.co.uk
+7,Welsh Wife,"Cardiff, UK",2004,Others,10,ww@gmail.com
+8,Gemma Runway,"Lancaster, UK",2004,Retail,9,purchase@gmr.co.uk
+9,SWD,"Stockholm, Sweden",2004,Others,8,jenna@SWD.com
+10,London Creative,"London, UK",2005,Bulk,11,LC@hotmail.com
+11,HSKFashion,"Helsinki, Finland",2006,Bulk,8,contact@HSK.co.uk
+12,LOTI Garment,"Dublin, Ireland",2007,Retail,9,garment@loti.com
+13,ATT Store.com,"Amsterdam, Netherlands",2007,Bulk,15,purchase@attstore.com
+14,Scot Score,"Glasgow, UK",2007,Retail,9,score@scot.com
+15,Panowikk ,"Narvik, Norway",2008,Bulk,8,garment@panowikk.com
+16,FMBA,"Madrid, Spain",2008,Retail,7,madridoffice@fmba.net
+17,Admirality Uniform,"Rotterdam, Netherlands",2008,Others,15,uniform@admirality.com
+18,Central Group,"Berlin, Germany",2010,Retail,1,purchase@central.com
+19,Cotes,"Paris, France",2010,Retail,2,garment@cotes.co.fr
+20,Giant J,"Paris, France",2011,Retail,2,anna@giantj.com
+21,Irish Airways,"Dublin, Ireland",2011,Bulk,9,uniform@irishair.com
+22,VIV,"Brussel, Belgium",2012,Bulk,2,fashion@viv.com
+23,Alexander De Coco,"Bruge, Belgium",2013,Bulk,2,contact@alexandercoco.com
+24,Wilhelm Fashion,"Dresden, Germany",2013,Bulk,1,fashion@wilhelm.com
+25,Wanda Fashion,"Dublin, Ireland",2013,Retail,9,purchase@wandafashion.com
+26,Lombardica,"Milan, Italy",2013,Retail,14,fashion@lombardica.com
+27,Felipe,"Barcelona, Spain",2013,Retail,7,garment@felipe.net
+28,EEC Garment,"Barcelona, Spain",2013,Bulk,7,garment@eecgarment.com
+29,Andulus,"Madrid, Spain",2013,Bulk,7,team@andulus.com
+30,KOV Corporation,"Budapest, Hungary",2014,Bulk,13,purchase@kov.co.hu
+31,Angus,"Edinburgh, UK",2015,Others,9,angus@angus.uk
+32,Sound of the Mountain,"Vienna, Austria",2016,Bulk,1,teampurchase@som.com
+33,Hellenic Haven,"Athens, Greece",2017,Retail,12,fashion@hhellenic.com
+34,Ausra's Design,"Vilnius, Lithuania",2017,Retail,5,design@ausradesign.co.lt
+35,RLSV,"Riga, Latvia",2017,Retail,5,rlsv@rlsv.com
+36,Skip,"Talinn, Estonia",2017,Retail,5,fashionestonia@skip.com
+37,CSF,"Prague, Czech Republic",2017,Bulk,4,fashionteam@csf.com
+38,Lisbon Bus,"Lisbon, Portugal",2018,Others,7,hr@lisbonbus.com
+39,Fleur Fashion,"Marseille, France",2018,Retail,2,purchase@fleurfashion.com
+40,Henrik,"Warsaw, Poland",2019,Others,6,acquisition@henrik.com
+41,Evo,"Rome, Italy",2019,Retail,14,teamcontactpurchase@evo.com
+42,Colonel Sucharski,"Krakow, Poland",2019,Others,6,contact@colonelsucharski.com
+43,TOL Uniform,"London, UK",2020,Others,11,uniform@tol.com
+44,Kingsman Tailor,"London, UK",2020,Retail,11,contact@kingsman.com
+45,Charis Vision,"Nicosia, Cyprus",2021,Bulk,3,fashion@charisvision.com
+46,NBF,"Calais, France",2021,Others,2,hr@nbf.com
+47,Liberté,"Paris, France",2021,Retail,2,fashion@liberté.com
+48,Kuba,"Warsaw ,Poland",2021,Retail,6,team@kuba.com
